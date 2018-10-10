@@ -1,9 +1,0 @@
-{
-    "name": "EOS List",
-    "description": "List of useful EOS resources",
-    "repository": "https://github.com/eosoceania/eoslist",
-    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-    "keywords": ["eos", "eosio", "eosoceania"],
-    "image": "heroku/nodejs"
-  }
-  
