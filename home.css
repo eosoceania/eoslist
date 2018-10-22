@@ -15,7 +15,7 @@
     font-size: 1.5rem;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
     .heading-container .logo-container {
         text-align: center;
     }
