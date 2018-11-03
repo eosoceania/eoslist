@@ -4,7 +4,7 @@ Now we have all eosio projects, dapps and tutorials in one place. Keeping up to 
 
 ## Make exploring great again
 
-The EOS Mainnet is still young but we see so many exciting projects and DApps being built on it already.
+The EOS Mainnet is still young t yet see so many exciting projects and DApps being built on it already.
 The Ecosystem is expanding each day!
 
 As EOS token holders, we are all strong believers in decentralization as a way of building fair and distributed systems that are owned by its users. But let's be honest - sometimes decentralization can be a bit frustrating too. For instance, when we first started developing on EOS, it was difficult to gather information, as it was "scattered" all over the place. It was around this time, we started to build our internal list of useful links so we wouldn't have to search for them again. Talking to token holders, one of the main questions we heard from the users was: "Where can I see the EOS DApps?". This prompted us to add DApps and resources to our list, which users craved for.
