@@ -1,6 +1,6 @@
 # EOSlist.io - The Definitive List of EOS Projects, Resources & DApps
 
-Keeping up to date with the EOS Ecosystem has never been this easy! Now you have all eosio projects, dapps & tutorials in one place.
+Now we have all eosio projects, dapps and tutorials in one place. Keeping up to date with the EOS Ecosystem has never been this easy!
 
 ## Make exploring great again
 
